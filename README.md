@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hello there 👋😎</h2>
-<h1 align="center">My name is Derrick Koko</h1>
+<h2>Hello there 👋😎</h2>
+<h1>My name is Derrick Koko</h1>
 
 <br />
 
