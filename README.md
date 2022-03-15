@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=derrickkoko1234&color=green)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=derrickkoko1234&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=derrickkoko1234&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=derrickkoko1234&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
