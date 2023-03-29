@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3>I am a Software Engineer at El Studios, Managing Director of El Technologies and Founder of Dream Codes. I am also a Co-lead of the Mobile Development Hub in <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
+<h3>I am a Software Engineer at EL Incorporated, Managing Director of EL Technologies. I was a Co-lead of the Mobile Development Hub in <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
 <br>
 
 <h2>I have written some articles on Django and other stuffs ✍</h2>
