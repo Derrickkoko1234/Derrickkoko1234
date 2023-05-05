@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=derrickkoko1234&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=derrickkoko)
+<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=derrickkoko) -->
+![](https://wakatime.com/share/@derrickkoko/b32ff2c4-47f1-4c06-819f-7286110d0c86.png)
 
 
 
