@@ -50,9 +50,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=derrickkoko)
 ![](https://wakatime.com/share/@derrickkoko/b32ff2c4-47f1-4c06-819f-7286110d0c86.png)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=techwithderrick)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
