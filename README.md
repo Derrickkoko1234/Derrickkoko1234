@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3>I am a Software Engineer at EL Incorporated, Managing Director of EL Technologies. I was a Co-lead of the Mobile Development Hub in <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
+<h3>Software Engineer at Roqsoft Technologies and Etimobile. Founder of Dream Codes. Team Lead of Development Hub in <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
 <br>
 
 <h2>I have written some articles on Django and other stuffs ✍</h2>
@@ -75,6 +75,12 @@ style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" height="40"
+style="vertical-align:top; margin: 4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40"
+style="vertical-align:top; margin: 4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40"
 style="vertical-align:top; margin: 4px">
   
   
