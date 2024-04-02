@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-##### . 🌱 Ask me anything about coding with Python and Flutter
+##### . 🌱 Ask me anything about coding with Python, Flutter, Node.js, Rust and Vue.js
 
 <h2>Statistics 📈</h2>
 
