@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3>Software Engineer at Roqsoft Technologies and Etimobile. Founder of Dream Codes. Team Lead of Development Hub in <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
+<h3>Software Engineer at Roqsoft Technologies and Etimobile. Founder of Dream Codes. Former Team Lead of Mobile and Backend Development Hub at <a href="https://github.com/GDSC-Nnamdi-Azikiwe-University">GDSC Nnamdi Azikwe University</a>.</h3>
 <br>
 
 <h2>I have written some articles on Django and other stuffs ✍</h2>
