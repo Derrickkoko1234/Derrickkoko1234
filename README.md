@@ -1,5 +1,3 @@
-
-
 <!--
 **Derrickkoko1234/Derrickkoko1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-##### . 🌱 Ask me anything about coding with Python, Flutter, Node.js, Rust and Vue.js
+##### . 🌱 Ask me anything about coding with Python, Flutter, Node.js, Rust, Vue.js, React and React Native.
 
 <h2>Statistics 📈</h2>
 
@@ -50,14 +48,15 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=derrickkoko)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=derrickkoko1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
 ## 🧰 Languages and Tools:
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -82,13 +81,11 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" height="40"
 style="vertical-align:top; margin: 4px">
-  
-  
-  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust" height="40" style="vertical-align:top; margin:4px">
 
 </p>
-
-
 
 <h2>Get in Touch with Me 📩</h2>
 <p>
@@ -133,4 +130,3 @@ style="vertical-align:top; margin: 4px">
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
   /></a>
 </p>
-
