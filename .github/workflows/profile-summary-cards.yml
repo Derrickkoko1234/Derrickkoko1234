@@ -1,0 +1,35 @@
+name: Generate GitHub Profile Cards
+
+on:
+  schedule:
+    # Runs daily at 3:00 AM UTC
+    - cron: "0 3 * * *"
+
+  # Allows you to run it manually
+  workflow_dispatch:
+
+jobs:
+  generate-profile-cards:
+    name: Generate profile statistics
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: none
+          NAME: Derrick Koko
+          EXCLUDE: ""
