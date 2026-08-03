@@ -201,23 +201,41 @@ I occasionally write about software engineering, backend development, Django, pr
 ## GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=derrickkoko1234&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Derrick's GitHub statistics" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkoko1234&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Derrick's most used languages" />
-
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="Derrick Koko's GitHub profile details"
+    width="100%"
+  />
 </div>
 
+<br />
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=derrickkoko1234\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
-
+  <img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Derrick Koko's repositories by language"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Derrick Koko's most used commit languages"
+    width="49%"
+  />
 </div>
 
+<br />
+
 <div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=derrickkoko1234\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="Derrick Koko's GitHub statistics"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Derrick Koko's productive coding periods"
+    width="49%"
+  />
 </div>
 
 ---
@@ -227,8 +245,6 @@ I occasionally write about software engineering, backend development, Django, pr
 <div align="center">
 
 [![WakaTime](https://wakatime.com/badge/user/61d66f9f-ddbc-4ed6-88fe-4d5f2d338caf.svg)](https://wakatime.com/@61d66f9f-ddbc-4ed6-88fe-4d5f2d338caf)
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=derrickkoko&theme=tokyonight&hide_border=true&layout=compact" alt="Derrick's WakaTime statistics" />
 
 </div>
 
