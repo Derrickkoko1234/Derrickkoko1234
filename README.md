@@ -40,7 +40,6 @@ I am comfortable taking products from an initial idea through architecture, deve
 ## Professional Experience & Leadership
 
 * Software engineering experience across **EL Inc**, **EL Technologies**, and **MyWay Technologies**
-* Managing Director at **EL Technologies**
 * Founder of **Binary Brawlers**
 * Former Co-lead of the Mobile Development Hub at [GDSC Nnamdi Azikiwe University](https://github.com/GDSC-Nnamdi-Azikiwe-University)
 * Experience working with product, business, administrative, and engineering teams
